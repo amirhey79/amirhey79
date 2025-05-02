@@ -33,8 +33,8 @@
 
 <p>
   <img
-    alt="react"
-    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB"
+    alt="PHP"
+    src="https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white"
   />
   <img
     alt="JavaScript"
