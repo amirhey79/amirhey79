@@ -64,19 +64,19 @@
 
 ## **My Social Network**
 
-<a href="https://www.linkedin.com/in/mohammadreza-ghadiri-490ba0296/">
+<a href="https://www.linkedin.com/in/amir-he-051b73257">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-<a href="https://www.instagram.com/gh_mamadreza">
+<a href="https://www.instagram.com/amir_he.79">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
   />
 </a>
-<a href="https://t.me/Gh_Mamadreza">
+<a href="https://t.me/Amirheydariweb">
   <img
     alt="Telegram"
     src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
