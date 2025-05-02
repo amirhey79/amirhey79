@@ -33,8 +33,12 @@
 
 <p>
   <img
+    alt="WordPress"
+    src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
+  />
+  <img
     alt="PHP"
-    src="https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=canva&logoColor=white"
+    src="https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white"
   />
   <img
     alt="JavaScript"
@@ -47,6 +51,10 @@
   <img
     alt="HTML5"
     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+  />
+  <img
+    alt="CANVA"
+    src="https://img.shields.io/badge/Canva%231572B6.svg?style=for-the-badge&logo=canva&logoColor=white"
   />
 <!--   <img
     alt="WordPress"
