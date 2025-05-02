@@ -1,12 +1,12 @@
 <div align="center">
   
-  **`Front-End Developer`**
+  **`Wordpress Developer`**
   
   </div>
 
 <h2 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+I'm+Mohammadreza+Ghadiri.;Nice+to+meet+you+👋"
+    src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+I'm+Amir+Heydari.;Nice+to+meet+you+👋"
   />
 </h2>
 
@@ -34,7 +34,7 @@
 <p>
   <img
     alt="react"
-    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB"
   />
   <img
     alt="JavaScript"
